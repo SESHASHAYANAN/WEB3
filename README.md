@@ -14,7 +14,7 @@
 6. Token Economics: Contributors earn rewards based on computing power provided and training quality, creating a sustainable ecosystem.
 
 The platform democratizes AI development while ensuring transparency and reducing dependency on centralized cloud providers.
-Now we will see the prototype. The App is build using React, Tailwind css and Blockchain.
+Now we will see the prototype. The App is built using React, Tailwind CSS and Blockchain.
 1. Login page
   ![image](https://github.com/user-attachments/assets/4613729d-9170-4faa-80c4-827706e9fdee)
   ![image](https://github.com/user-attachments/assets/9dcf9d4e-0936-4136-a9d5-ebe6d62fa99f)
