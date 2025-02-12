@@ -20,7 +20,7 @@ Now we will see the prototype. The App is built using React, Tailwind CSS and Bl
 1. Login page
   ![image](https://github.com/user-attachments/assets/4613729d-9170-4faa-80c4-827706e9fdee)
   ![image](https://github.com/user-attachments/assets/9dcf9d4e-0936-4136-a9d5-ebe6d62fa99f)
-2. Open Source AI Models Hub - Select from a wide range of Open Souce AI Models to work with different categeries
+2. Open Source AI Models Hub - Select from a wide range of Open Souce AI Models to work with different categories
   ![image](https://github.com/user-attachments/assets/b051f0a3-a930-4fd0-adaa-3ab1e059e29c)
 3. Open Source Distributed Computing Hub - Select the Required computing power you need and rent it at lower price.
    ![image](https://github.com/user-attachments/assets/7ae5a75c-f101-4d77-96df-0e1fde7756e9)
