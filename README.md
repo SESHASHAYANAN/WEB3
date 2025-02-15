@@ -1,4 +1,4 @@
-# AI AND DISTRIBUTED COMPUTING WEB3 CRYPTOCURRENCY APPLICATIO
+# AI AND DISTRIBUTED COMPUTING WEB3 CRYPTOCURRENCY APPLICATION
 # Demo Youtube Link:- https://youtu.be/fwL_St-bKnE
 
  Decentralized AI model training platform leverage blockchain and distributed computing to create a peer-to-peer network where participants can contribute their GPU resources to train AI models. This system operates all by:
