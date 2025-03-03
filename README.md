@@ -2,7 +2,7 @@
 
 # Demo Youtube Link:- https://youtu.be/fwL_St-bKnE
 
- Decentralized AI model training platforms leverage blockchain and distributed computing to create a peer-to-peer network where participants can contribute their GPU resources to train AI models. This system operates all by:
+Decentralized AI model training platforms leverage blockchain and distributed computing to create a peer-to-peer network where participants can contribute their GPU resources to train AI models. This system operates all by:
 
 1. Model Selection: Users choose from available open-source AI models(like GPT variants or BERT) as their base architecture.
 
